@@ -1,8 +1,8 @@
 // SFW Media List
 const sfwMediaList = [
     // GitHub-hosted media (relative path)
-    "media/cute_cat.jpg",
-    "media/mountains.mp4",
+    "media/bridge.png",
+    "blank",
 
     // External media
     "https://www.w3schools.com/w3images/fjords.jpg",
