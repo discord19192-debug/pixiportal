@@ -1,0 +1,9 @@
+PixiPortal/
+│
+├── index.html
+├── style.css
+├── script.js
+├── media/
+│   ├── cute_cat.jpg
+│   ├── mountains.mp4
+│   ├── nsfw_sample.jpg
